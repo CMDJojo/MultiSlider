@@ -31,7 +31,7 @@ there were boxes placed on goals.
 
 ### Example
 
-![Example](example.png)
+![Example](example.png)  
 This puzzle can be entered as
 
 ```
